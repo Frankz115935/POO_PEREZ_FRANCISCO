@@ -5,6 +5,7 @@ Jovenes = []
 Adultos = []
 basura = []
 
+
 for i in Edades:
     if i >= 6:
         Infancia.insert(i,i)
